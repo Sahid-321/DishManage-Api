@@ -1,6 +1,8 @@
 #### Running local development environment
 Go to the server folder install dependencies for backend:
 
+Go to this link and hit "/" endpoint to get user id and password https://dishmanage-api.onrender.com/api-docs/
+
 ```
 npm install
 ```
